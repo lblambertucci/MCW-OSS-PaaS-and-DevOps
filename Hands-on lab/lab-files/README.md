@@ -24,7 +24,7 @@ Once the VM is deployed, connect to it using an RDP client, fork the starter app
 The starter project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
-teste
+teste teste2
 In the project directory, run:
 
 ```sh
